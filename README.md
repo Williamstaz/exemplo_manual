@@ -43,5 +43,5 @@ para baixar  nosa ferramenta de diagnóstico [clique aqui](https://site.com)
 ou acesse https://outrosite.com
 
 
-para acessar a instalação avançada [clique aqui](instalação.md)
+para acessar a instalação avançada [clique aqui](Instalação.md)
 
