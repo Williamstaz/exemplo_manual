@@ -45,3 +45,6 @@ ou acesse https://outrosite.com
 
 para acessar a instalação avançada [clique aqui](Instalação.md)
 
+clique duas vezes no arquivo `setup´
+
+
