@@ -47,4 +47,4 @@ para acessar a instalação avançada [clique aqui](Instalação.md)
 
 clique duas vezes no arquivo `setup´
 
-
+https://storage.googleapis.com/dpw/app/uploads/2019/04/lazy-loading-nativo-imagens-iframes_.jpg
